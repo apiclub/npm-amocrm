@@ -1,0 +1,2 @@
+# npm-amocrm
+Статус: developing

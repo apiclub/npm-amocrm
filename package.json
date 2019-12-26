@@ -1,0 +1,16 @@
+{
+  "name": "amocrm",
+  "version": "0.0.1",
+  "description": "Work with AmoCRM API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amocrm",
+    "api",
+    "npm"
+  ],
+  "author": "Viktor Gvozdikov",
+  "license": "MIT"
+}
